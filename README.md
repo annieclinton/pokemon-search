@@ -2,7 +2,9 @@
 
 # Pokémon
 
-This web application enables users to search for any Pokémon by name and retrieve detailed information including its images (front and back) and a list of its abilities. Users simply enter the name of a Pokémon, such as "Clefairy," "Bulbasaur," or "Charmander," and the application dynamically displays the relevant data fetched from the Pokémon API.
+This web application enables users to search for any Pokémon by name and retrieve detailed information including its images (front and back) and a list of its abilities. 
+
+Users simply enter the name of a Pokémon, such as "Clefairy," "Bulbasaur," or "Charmander," and the application dynamically displays the relevant data fetched from the Pokémon API.
 
 **Link to project:** TBD
 
@@ -24,7 +26,7 @@ I implemented a clean and straightforward user interface that allows easy naviga
 
 ## Lessons Learned:
 
-This project deepened my understanding of asynchronous JavaScript, particularly in managing API calls and handling JSON data. It also reinforced best practices in responsive web design, ensuring that applications provide a seamless user experience across all device types. I learned about the complexities of error handling in web applications, particularly in dealing with external APIs where multiple points of failure might occur.
+This project deepened my understanding of asynchronous JavaScript, particularly in managing API calls and handling JSON data.
 
 
 

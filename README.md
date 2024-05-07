@@ -6,7 +6,7 @@ This web application enables users to search for any Pokémon by name and retrie
 
 Users simply enter the name of a Pokémon, such as "Clefairy," "Bulbasaur," or "Charmander," and the application dynamically displays the relevant data fetched from the Pokémon API.
 
-**Link to project:** TBD
+**Link to project:** https://api-search-pokemon.netlify.app/
 
 Please note, as this project relies on the external Pokémon API, response times can vary based on API performance and availability.
 
